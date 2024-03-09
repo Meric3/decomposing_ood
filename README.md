@@ -1,3 +1,3 @@
 # decomposing_ood
 
-gpu8 workspace_decomposingdecomposing_ood
+gpu8 workspace/_decomposing/decomposing_ood
